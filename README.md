@@ -7,4 +7,4 @@ inputUser#f21158c6 user_id:long access_hash:long = InputUser;
 
 ---functions---
 
-bots.setBotMenuButton#4504d54f user_id:InputUser button:BotMenuButton = Bool;
+bots.getBotMenuButton#9c60eb28 user_id:InputUser = BotMenuButton;
